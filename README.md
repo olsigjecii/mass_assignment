@@ -1,4 +1,5 @@
-Mass Assignment Vulnerabilities in Rust
+# Mass Assignment Vulnerabilities in Rust
+
 Welcome to this Snyk Learn lesson on Mass Assignment vulnerabilities, demonstrated using Rust and the actix-web framework. This lesson will show you how this vulnerability can be exploited and how to prevent it using idiomatic Rust patterns.
 
 📖 Lesson Summary
@@ -35,10 +36,12 @@ Create a new project directory and save the Rust code provided in the lesson int
 
 Bash
 
-mkdir snyk-mass-assignment
-cd snyk-mass-assignment
+mkdir mass-assignment
+cd mass-assignment
 mkdir src
-# Now create main.rs and Cargo.toml with the provided content
+
+### Now create main.rs and Cargo.toml with the provided content
+
 Build the Application:
 Navigate to the project's root directory in your terminal and use cargo to build the project. This will also download the required dependencies.
 
