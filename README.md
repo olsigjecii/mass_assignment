@@ -1,4 +1,5 @@
-# Mass Assignment Vulnerabilities in Rust
+# Mass Assignment Vulnerabilities in Rust with Actix-Web 🦀
+
 
 Welcome to this Snyk Learn lesson on Mass Assignment vulnerabilities, demonstrated using Rust and the actix-web framework. This lesson will show you how this vulnerability can be exploited and how to prevent it using idiomatic Rust patterns.
 
